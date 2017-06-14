@@ -1,0 +1,28 @@
+
+
+http://blog.csdn.net/qq_24122593/article/details/53407582  //博客文档
+
+
+
+http://router.vuejs.org/zh-cn/api/router-link.html   //vue-router官网
+
+
+
+http://www.jianshu.com/p/266e0b685c40   //使用vue-cli和vue-router构建项目
+
+
+
+
+https://segmentfault.com/a/1190000009160934?_ea=1849098  使用vue-router。vue-cli构建项目实例 （很好的推荐实例）
+
+
+
+安装步骤  ：全局安装vue-cli
+            创建模板
+            进入项目文件夹 安装依赖 npm install 
+            运行  
+
+
+
+
+
