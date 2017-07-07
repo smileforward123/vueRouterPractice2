@@ -16,6 +16,9 @@ http://www.jianshu.com/p/266e0b685c40   //使用vue-cli和vue-router构建项目
 https://segmentfault.com/a/1190000009160934?_ea=1849098  使用vue-router。vue-cli构建项目实例 （很好的推荐实例）
 
 
+https://segmentfault.com/a/1190000006864281   //vue+vueRouter +vueX  项目实例
+
+
 
 安装步骤  ：全局安装vue-cli
             创建模板
